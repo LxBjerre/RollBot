@@ -1,2 +1,0 @@
-# RollBot
-/Roll Discord Bot
